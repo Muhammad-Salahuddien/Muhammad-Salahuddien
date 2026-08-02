@@ -16,8 +16,8 @@
 - 🌱 Currently Learning **React.js & Node.js**
 - 🎯 Goal: Become a Full Stack Developer
 - 🚀 Love Building Responsive Websites
-- 📍 Pakistan
-- 📧 your-email@gmail.com
+- 📍 Faisalabad
+- 📧 muhammadsalahuddien0@gmail.com
 
 ---
 
@@ -57,7 +57,7 @@
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=muhammad-salahuddien&theme=tokyo-night"/>
 
 </p>
 
@@ -98,7 +98,7 @@
 
 <p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=Muhammad-salahuddien&label=Profile%20Views&color=0e75b6&style=flat"/>
 
 </p>
 
