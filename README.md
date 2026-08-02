@@ -1,16 +1,24 @@
-## Hi there 👋
+-------------------------------------------------
 
-<!--
-**Muhammad-Salahuddien/Muhammad-Salahuddien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Muhammad Salahuddien
 
-Here are some ideas to get you started:
+wordpress & Frontend Web Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML • CSS • Bootstrap • JavaScript • React
+
+🚀 Currently Building
+✔ Portfolio Website
+✔ Bootstrap Projects
+✔ JavaScript Projects
+
+📌 Featured Projects
+⭐ Portfolio
+⭐ Restaurant Website
+⭐ E-commerce Landing Page
+
+📫 Contact
+Email :muhammadsalahuddien0@gmail.com
+LinkedIn
+Portfolio ;https://mirza-developer-hash.github.io/Mr-Salahuddien/
+
+-------------------------------------------------
