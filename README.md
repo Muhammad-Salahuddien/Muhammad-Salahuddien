@@ -1,127 +1,57 @@
-<!-- ========================================================= -->
-<!--                  ANIMATED HEADER                          -->
-<!-- ========================================================= -->
+<!-- ====================================================== -->
+<!--                 PREMIUM GITHUB PROFILE                 -->
+<!-- ====================================================== -->
 
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,50:203A43,100:2C5364&text=Muhammad%20Salahuddien&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20|%20WordPress%20Developer&descAlignY=58"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:090979,50:00d4ff,100:6a00ff&text=Muhammad%20Salahuddien&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%7C%20WordPress%20Developer&descAlignY=60" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋 I'm Muhammad Salahuddien</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Salahuddien</h1>
 
 <h3 align="center">
 Frontend Developer • WordPress Developer • React Learner
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3500&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Frontend+Web+Developer;WordPress+Developer;HTML+%7C+CSS+%7C+Bootstrap;JavaScript+Developer;React+Learner;Building+Modern+Responsive+Websites"/>
+
+<a href="https://github.com/Muhammad-Salahuddien">
+<img src="https://img.shields.io/github/followers/Muhammad-Salahuddien?label=Followers&style=for-the-badge&color=00c3ff"/>
+</a>
+
+<a href="https://github.com/Muhammad-Salahuddien">
+<img src="https://komarev.com/ghpvc/?username=Muhammad-Salahuddien&style=for-the-badge&color=blue"/>
+</a>
+
+<img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Frontend+Web+Developer;WordPress+Developer;HTML+CSS+Bootstrap;JavaScript+Developer;Currently+Learning+React.js;Building+Modern+Responsive+Websites"/>
+
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-- 💙 Frontend & WordPress Developer
-- 🌱 Currently Learning **React.js**
-- 💻 Passionate About Modern UI Design
-- 🚀 Love Building Responsive Websites
-- 🎯 Goal: Become a Professional Frontend Developer
-- ⚡ Always Learning New Technologies
+<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+- 💻 Frontend Web Developer
+- 🌐 WordPress Developer
+- 🚀 Building Modern Responsive Websites
+- 🌱 Currently Learning React.js
+- ⚡ Passionate About Clean UI
+- 🎯 Goal → Become a Professional Frontend Developer
+- 📫 Email → **muhammadsalahuddien0@gmail.com**
 
 ---
 
-# 🌐 Portfolio
+# 🌍 Portfolio
 
-### 🔗 Live Website
+### 🔗 Live Portfolio
 
 **https://muhammad-salahuddien.github.io/Mr-Salahuddien/**
 
 ---
-
-# 📫 Contact
-
-📧 **muhammadsalahuddien0@gmail.com**
-
----
-
-# 🚀 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=bootstrap" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=wordpress" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=figma" />
-
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Salahuddien&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Salahuddien&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Muhammad-Salahuddien&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Salahuddien&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
----
-
-# 💼 Featured Project
-
-### 🌟 Personal Portfolio Website
-
-🔗 Live Demo
-
-https://muhammad-salahuddien.github.io/Mr-Salahuddien/
-
----
-
-# 💬 Quote
-
-> **"First, solve the problem. Then, write the code." – John Johnson**
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Muhammad-Salahuddien&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
-<!-- ========================================================= -->
-<!--                      FOOTER                               -->
-<!-- ========================================================= -->
-
-<p align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
-
-</p>
