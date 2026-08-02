@@ -71,9 +71,12 @@ Badges for quick glance:
 
 ## 🔎 Featured / Portfolio
 See live demos and project details on my portfolio:
-- Portfolio: https://muhammad-salahuddien.github.io/Mr-Salahuddien/
-
-(Provide 3–6 repo links or project names and short descriptions and I’ll add polished project cards with repo links, tech tags, and screenshots.)
+Portfolio: https://muhammad-salahuddien.github.io/Mr-Salahuddien/
+https://zolrank.finitysync.com/
+https://lightblue-cobra-257901.hostingersite.com/
+https://lightblue-cobra-257901.hostingersite.com/prime-life/
+https://lightblue-cobra-257901.hostingersite.com/team/#
+https://lightblue-cobra-257901.hostingersite.com/elementor-14690/
 
 ---
 
