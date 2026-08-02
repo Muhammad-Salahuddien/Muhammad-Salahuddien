@@ -1,6 +1,6 @@
 # Hi 👋, I'm Muhammad Salahuddien
 
-### Frontend Developer \| Future Full Stack Developer
+### Frontend Developer | Future Full Stack Developer
 
 ```{=html}
 <p align="center">
