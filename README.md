@@ -31,7 +31,7 @@
 
 ## 👨‍💻 About Me
 
-```yaml
+
 Name: Muhammad Salahuddien
 Location: Pakistan
 Role: Frontend Developer
@@ -39,3 +39,65 @@ Learning: React.js & Node.js
 Goal: Full Stack Developer
 Portfolio: https://muhammad-salahuddien.github.io/Mr-Salahuddien/
 Email: muhammadsalahuddien0@gmail.com
+
+
+## 🛠️ Skills & Technologies
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=html" width="50"/>
+<img src="https://skillicons.dev/icons?i=css" width="50"/>
+<img src="https://skillicons.dev/icons?i=js" width="50"/>
+<img src="https://skillicons.dev/icons?i=bootstrap" width="50"/>
+<img src="https://skillicons.dev/icons?i=react" width="50"/>
+<img src="https://skillicons.dev/icons?i=wordpress" width="50"/>
+<img src="https://skillicons.dev/icons?i=git" width="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+<img src="https://skillicons.dev/icons?i=vscode" width="50"/>
+
+</p>
+
+## 🚀 Featured Projects
+
+### 🌐 Personal Portfolio Website
+A modern responsive portfolio website to showcase my skills, projects, and experience.
+
+**Technologies Used:**
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+🔗 Live Demo: Add your link here  
+🔗 Repository: Add your GitHub repository link here
+
+
+---
+
+### 🛒 E-Commerce Website
+A responsive online shopping website with modern UI design.
+
+**Technologies Used:**
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+🔗 Live Demo: (https://muhammad-salahuddien.github.io/Mr-Salahuddien/) 
+🔗 Repository: Add your GitHub repository link here
+
+
+---
+
+### 📱 Landing Page Designs
+Creative and responsive landing pages designed for different businesses.
+
+**Technologies Used:**
+- HTML
+- CSS
+- JavaScript
+
+🔗 Repository: Add your GitHub repository link here
+
+
+
