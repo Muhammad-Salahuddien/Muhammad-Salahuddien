@@ -171,6 +171,14 @@ https://muhammad-salahuddien.github.io/Mr-Salahuddien/
 
 ---
 
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Muhammad-Salahuddien/Muhammad-Salahuddien/output/github-contribution-grid-snake-dark.svg" alt="Snake animation">
+</p>
+
+---
+
 # 🤝 Connect With Me
 
 <p align="center">
