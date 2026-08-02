@@ -1,229 +1,614 @@
-<!-- ====================================================== -->
-<!--                 PREMIUM GITHUB PROFILE                 -->
-<!-- ====================================================== -->
+<!--Banner-->
+![Kiran1689 Banner Image](./banner.png)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:090979,50:00d4ff,100:6a00ff&text=Muhammad%20Salahuddien&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Frontend%20Developer%20%7C%20WordPress%20Developer&descAlignY=60" width="100%" />
-</p>
+<!--Night Owl image-->
+<div>
+  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+</div>
 
-<h1 align="center">Hi 👋, I'm Muhammad Salahuddien</h1>
+<!--Header Name-->
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ᴋɪʀᴀɴ! 
+*Digital Craftsman (Developer / Programmer)*
+<br /> 
 
-<h3 align="center">
-Frontend Developer • WordPress Developer • React Learner
-</h3>
+<!--Start Intro-->               
+<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
-<p align="center">
+- ✨ Student of life :)
+- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+- 💁‍♂️ Trusted member and Moderator at [DEV Community](https://dev.to)
+- 🏙 A lifetime insider and Mentor at [Exercism](https://exercism.org/profiles/Kiran1689).
+- ✍ I write technical blogs, You can visit my blog site at [DEV](https://dev.to/dev_kiran).
+- ❤ Contributing to Open Source.
+- 💻 Visit my [Portfolio](https://kirannaragund.com) for more details about me.
+<!--End Intro-->
 
-<a href="https://github.com/Muhammad-Salahuddien">
-<img src="https://img.shields.io/github/followers/Muhammad-Salahuddien?label=Followers&style=for-the-badge&color=00c3ff"/>
-</a>
-
-<a href="https://github.com/Muhammad-Salahuddien">
-<img src="https://komarev.com/ghpvc/?username=Muhammad-Salahuddien&style=for-the-badge&color=blue"/>
-</a>
-
-<img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&pause=1000&color=00E7FF&center=true&vCenter=true&width=900&lines=Frontend+Web+Developer;WordPress+Developer;HTML+CSS+Bootstrap;JavaScript+Developer;Currently+Learning+React.js;Building+Modern+Responsive+Websites"/>
-
+<!--Profile Count Badge-->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kiran1689&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Kiran1689" style="padding-right:20px;" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
 
-<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="GIF description" src="./Skills_Animation_White.gif">
+</picture>
+<br />
 
-- 💻 Frontend Web Developer
-- 🌐 WordPress Developer
-- 🚀 Building Modern Responsive Websites
-- 🌱 Currently Learning React.js
-- ⚡ Passionate About Clean UI
-- 🎯 Goal → Become a Professional Frontend Developer
-- 📫 Email → **muhammadsalahuddien0@gmail.com**
+<h3 align="left">Current Learning</h3>
+<ul align="left">
+  <li>Deepening my knowledge in Machine Learning and AI.</li>
+  <li>Exploring advanced React.js patterns and state management techniques.</li>
+  <li>Improving my skills in cloud computing with AWS and Azure.</li>
+</ul>
+  
+<h3 align="left">Latest Blog Posts</h3>
+<ul align="left">
+  <li><a href="https://dev.to/dev_kiran/storyblok-mcp-server-let-ai-agents-manage-your-content-3jaa">🔥Storyblok MCP Server: Let AI Agents Manage Your Content 🤖</a></li>
+  <li><a href="https://dev.to/dev_kiran/pulstack-deploy-your-static-site-to-s3-or-github-in-1-min-5cin">🔥Pulstack: Deploy your static site to S3 or GitHub in <1 min🙂</a></li>
+  <li><a href="https://dev.to/dev_kiran/i-tried-out-qodos-new-embed-model-qodo-embed-1-40h5">I Tried Out Qodo's New Embed Model Qodo-Embed-1🤯</a></li>
+</ul>
+<br />
+<br />
+<br />
+<br />
 
----
 
-# 🌍 Portfolio
-
-### 🔗 Live Portfolio
-
-**https://muhammad-salahuddien.github.io/Mr-Salahuddien/**
-
-# 🚀 Tech Stack
-
+<!--Trophies Section-->   
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,wordpress,git,github,vscode,figma,npm&perline=6"/>
-
+  <a href="https://github.com/Kiran1689">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
 </p>
-
----
-
-# 🛠️ Currently Working With
-
 <p align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
-</p>
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Salahuddien&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Salahuddien&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Muhammad-Salahuddien&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Salahuddien&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</p>
-
-# 📈 GitHub Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Salahuddien&theme=tokyo-night&hide_border=true&area=true" width="100%">
-</p>
-
----
-
-# 💼 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Personal Portfolio
-
-🚀 Modern responsive portfolio website
-
-**Tech Stack**
-
-- HTML5
-- CSS3
-- Bootstrap
-- JavaScript
-
-🔗 **Live Demo**
-
-https://muhammad-salahuddien.github.io/Mr-Salahuddien/
-
-</td>
-
-<td width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Muhammad-Salahuddien&repo=Mr-Salahuddien&theme=tokyonight&hide_border=true"/>
-
-</td>
-
-</tr>
-</table>
-
----
-
-# 🎯 Current Goals
-
-- ✅ Master React.js
-- ✅ Build Modern UI/UX
-- ✅ Learn Advanced JavaScript
-- ✅ Improve WordPress Development
-- ✅ Build Full Responsive Websites
-- ✅ Upload More Open Source Projects
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Muhammad-Salahuddien/Muhammad-Salahuddien/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Muhammad-Salahuddien/Muhammad-Salahuddien/output/github-contribution-grid-snake.svg"
-    />
+  <a href="https://github.com/daytonaio/daytona">
     <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/Muhammad-Salahuddien/Muhammad-Salahuddien/output/github-contribution-grid-snake.svg"
+      src="https://api.vaunt.dev/v1/github/entities/Kiran1689/achievements?format=svg&limit=6"
+      width="400"
     />
-  </picture>
+  </a>
 </p>
+<br />
+
+<!--Github stats Table--> 
+<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Kiran1689&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=Kiran1689&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689/storyblok-mcp-server">
+          <img align="center" width="470" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=Kiran1689&repo=storyblok-mcp-server&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/Kiran1689">
+          <img align="center" src="https://github-repository-contribution-stat-green.vercel.app/api?username=Kiran1689&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<!--Contribution Graph-->
+<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kiran1689&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
+</div>
 
 ---
 
-# 🤝 Connect With Me
+<!--Dynamic Quote card updates everyday at 12 PM--> 
+<h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Wayne%20Dyer&quote=Judgments%20prevent%20us%20from%20seeing%20the%20good%20that%20lies%20beyond%20appearances.%20%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
 
-<a href="mailto:muhammadsalahuddien0@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--Contact Section--> 
+
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:kirannaragund197@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="kirannaragund197@gmail.com" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://github.com/Muhammad-Salahuddien">
-<img src="https://skillicons.dev/icons?i=github"/>
+<a href="https://x.com/kiran__a__n" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://muhammad-salahuddien.github.io/Mr-Salahuddien/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge"/>
+<a href="https://www.instagram.com/kiran_a_n" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
 </a>
 
-</p>
+<a href="https://www.githubcom/Kiran1689" target="_blank">
+<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+</a>
 
----
+<a href="https://www.linkedin.com/in/kiran-a-n/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
 
-# 💡 Developer Quote
+<a href="https://dev.to/dev_kiran" target="_blank">
+<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
+</a>
+</div>
+<br/>
 
+<!--Buy me a coffee-->
+<div align="center">
+<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+</div>
+
+
+<!--Footer--> 
 <p align="center">
-
-> **"First, solve the problem. Then, write the code."**
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090979,50:00D4FF,100:6A00FF&height=120&section=footer"/>
-
-</p>
