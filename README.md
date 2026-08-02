@@ -25,8 +25,8 @@ WordPress Developer • Frontend Developer • WooCommerce Expert
 ---
 
 ## 🔎 Quick summary
-- Role: WordPress Developer · Frontend Developer · WooCommerce Expert  
-- Location: (add if you want)  
+- Role: WordPress Developer · Frontend Developer · WooCommerece Expert  
+- Location: Faislabad 
 - Availability: Open for freelance & client work (email to discuss)
 
 ---
@@ -53,7 +53,7 @@ Badges for quick glance:
 
 ## 💼 Services I provide
 - Full WordPress site development (themes, child-themes, responsive layouts)  
-- WooCommerce store setup, customization, and payment gateway integration  
+- WooCommerece store setup, customization, and payment gateway integration  
 - Frontend implementation with pixel-perfect HTML/CSS/Bootstrap  
 - JavaScript enhancements, UI interactions, and lightweight performance improvements  
 - Site performance optimization, caching, and mobile UX improvements  
@@ -71,12 +71,14 @@ Badges for quick glance:
 
 ## 🔎 Featured / Portfolio
 See live demos and project details on my portfolio:
-Portfolio: https://muhammad-salahuddien.github.io/Mr-Salahuddien/
-https://zolrank.finitysync.com/
-https://lightblue-cobra-257901.hostingersite.com/
-https://lightblue-cobra-257901.hostingersite.com/prime-life/
-https://lightblue-cobra-257901.hostingersite.com/team/#
-https://lightblue-cobra-257901.hostingersite.com/elementor-14690/
+
+- Portfolio:https://muhammad-salahuddien.github.io/Mr-Salahuddien/
+- https://zolrank.finitysync.com/
+- https://lightblue-cobra-257901.hostingersite.com/
+- https://lightblue-cobra-257901.hostingersite.com/prime-life/
+- https://lightblue-cobra-257901.hostingersite.com/team/#
+- https://lightblue-cobra-257901.hostingersite.com/elementor-14690/
+  
 
 ---
 
