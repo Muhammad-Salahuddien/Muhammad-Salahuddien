@@ -7,11 +7,14 @@
 </h1>
 
 <h3 align="center">
-  Frontend Developer • JavaScript Enthusiast • Future Full Stack Developer
+  Wordpress Developer • Frontend developer • Woocommerece Expert
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer;Responsive+Web+Designer;JavaScript+Developer;Learning+React.js;Welcome+to+my+GitHub+Profile!">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Frontend+Developer
+    ;Responsive+
+    Web+Designer
+    ;JavaScript+Developer;Learning+React.js;Welcome+to+my+GitHub+Profile!">
 </p>
 <p align="center">
 
