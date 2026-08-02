@@ -2,7 +2,7 @@
 
 # Hi 👋, I'm Muhammad Salahuddien
 
-### Frontend Developer | Future Full Stack Developer
+### Wordpress Developer | Frontend Developer
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Frontend+Developer;HTML+%7C+CSS+%7C+Bootstrap;JavaScript+Learner;React.js+Learner;Welcome+to+my+GitHub+Profile!" />
 
@@ -35,9 +35,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammad-salahuddien&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-salahuddien&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -47,7 +47,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=muhammad-salahuddien&theme=tokyonight"/>
 
 </p>
 
@@ -82,7 +82,7 @@
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/muhammad-salahuddien">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
