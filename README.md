@@ -92,6 +92,7 @@ See live demos and project details on my portfolio:
 - Email: [muhammadsalahuddien0@gmail.com](mailto:muhammadsalahuddien0@gmail.com)  
 - Portfolio: https://muhammad-salahuddien.github.io/Mr-Salahuddien/  
 - GitHub: https://github.com/muhammad-salahuddien
+- Contact no: +92 3108391467
 
 
 
