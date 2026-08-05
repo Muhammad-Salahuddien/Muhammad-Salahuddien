@@ -73,6 +73,7 @@ Badges for quick glance:
 See live demos and project details on my portfolio:
 
 - Portfolio:https://muhammad-salahuddien.github.io/Mr-Salahuddien/
+- https://muhammad-salahuddien.github.io/lumiere-restaurant/
 - https://zolrank.finitysync.com/
 - https://lightblue-cobra-257901.hostingersite.com/
 - https://lightblue-cobra-257901.hostingersite.com/prime-life/
