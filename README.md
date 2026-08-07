@@ -32,6 +32,8 @@ WordPress Developer • Frontend Developer • WooCommerce Expert
 ---
 
 ## 🧰 Core skills
+- Wordpress
+- Woocommerece
 - HTML  
 - CSS  
 - Bootstrap  
